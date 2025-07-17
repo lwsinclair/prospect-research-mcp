@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jzhang17-prospect-research-mcp-badge.png)](https://mseep.ai/app/jzhang17-prospect-research-mcp)
+
 
 # Prospect Research MCP Server
 
